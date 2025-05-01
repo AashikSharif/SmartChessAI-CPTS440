@@ -2,6 +2,16 @@
 
 <img src="rsc/startingPosition.png" width="50%" height="50%">
 
+# Video Demo
+
+
+
+
+https://github.com/user-attachments/assets/b6756f1e-58c9-4545-98fa-a65e2012725f
+
+
+
+
 # Table of Contents
 1. [Game Rules](#Game-Rules)
 2. [Installation and Usage](#Installation-and-Usage)
